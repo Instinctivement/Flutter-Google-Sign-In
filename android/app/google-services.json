@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "633912792707",
+    "project_id": "signin-1f0eb",
+    "storage_bucket": "signin-1f0eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633912792707:android:a03aad3c99a46fe8ddadb6",
+        "android_client_info": {
+          "package_name": "com.openxtech.google_sign_in"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633912792707-tqekgbtkh4hsoho20ohsjbirk5mf8e3g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqLfWfTezm2oAT_TvDfMwk1cBdLkhJBJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633912792707-tqekgbtkh4hsoho20ohsjbirk5mf8e3g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
